@@ -20,10 +20,10 @@
 SSL_DIR="/home/nepalehr/ssl"
 SSL_DOMAIN="stidh.ehr"
 SSL_CA="ehr_ca"
-SSL_PASS="3hr@T3ku002"
+SSL_PASS="*******"
 
-SERVER_IP="192.168.1.221"
-VALID_DAYS=3650
+SERVER_IP="192.168.X.XXX"
+VALID_DAYS=3650 # 10 years of validity added to the script
 
 ##########################################
 ##     Get Confirmation on runtime      ##
